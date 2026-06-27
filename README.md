@@ -225,7 +225,7 @@ https://github.com/MobinDevN
 
 📧 Email
 
-your-email@example.com
+mobinn11086@gmail.com
 
 ---
 
