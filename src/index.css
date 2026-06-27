@@ -1,0 +1,35 @@
+@import "tailwindcss";
+@font-face {
+  font-family: peyda-medium;
+  src: url(/fonts/PeydaWeb-Medium.woff);
+}
+
+@font-face {
+  font-family: peyda-regular;
+  src: url(/fonts/PeydaWeb-Regular.woff);
+}
+
+@font-face {
+  font-family: peyda-bold;
+  src: url(/fonts/PeydaWeb-Bold.woff);
+}
+@font-face {
+  font-family: peyda-black;
+  src: url(/fonts/PeydaWeb-Black.woff);
+}
+
+.font-pm {
+  font-family: peyda-medium;
+}
+.font-pr {
+  font-family: peyda-regular;
+}
+.font-pb {
+  font-family: peyda-bold;
+}
+.font-pbl {
+  font-family: peyda-black;
+}
+html {
+  scroll-behavior: smooth;
+}
